@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993808106095",
+    "project_id": "receiptapp-18cb0",
+    "storage_bucket": "receiptapp-18cb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993808106095:android:334ccf70cc40f0a900c39a",
+        "android_client_info": {
+          "package_name": "com.example.eindopdracht"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIr_DrLY-J5-GbpYMEhJ_1qjCEDlpkMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993808106095:android:95701672718659a500c39a",
+        "android_client_info": {
+          "package_name": "com.example.receipt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIr_DrLY-J5-GbpYMEhJ_1qjCEDlpkMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -15,10 +15,5 @@ Als eindopdracht zou ik graag een app maken de die aankoopbonnen en kassatickets
 ✅ Rekeningen splitsen – Deel uitgaven op basis van percentages of vaste bedragen  
 ✅ Meldingen voor gedeelde uitgaven – Leden van groepen ontvangen meldingen wanneer een nieuw bonnetje wordt toegevoegd  
 
-## Geavanceerde Functies
-📊 Exporteren & Rapporten – Exporteer uitgavendata als een CSV-bestand voor administratie.  
-🚀 AI-gestuurde rekeningsplitsing – Herkent items op een bon en wijst ze toe aan groepsleden (bijvoorbeeld restaurantrekeningen)  
-🔍 AI Autofill voor uitgaven – Haalt automatisch belangrijke details (bedrag, datum, winkel) uit bonnetjes voor snelle invoer  
-✏️ Bewerkbare gedeelde uitgaven – Groepsleden kunnen indien nodig uitgaven aanpassen  
-🔗 Betalingslinks voor gesplitste rekeningen – Genereer een betaallink om terugbetalingen eenvoudig te maken  
 
+https://appdistribution.firebase.google.com/testerapps/1:993808106095:android:334ccf70cc40f0a900c39a/releases/59s897o1ntb30?utm_source=firebase-console
