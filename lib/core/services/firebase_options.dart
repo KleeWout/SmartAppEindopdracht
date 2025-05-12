@@ -19,8 +19,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCUIr_DrLY-J5-GbpYMEhJ_1qjCEDlpkMc',
-    appId: '1:993808106095:android:334ccf70cc40f0a900c39a',
+
     messagingSenderId: '993808106095',
     projectId: 'receiptapp-18cb0',
     storageBucket: 'receiptapp-18cb0.firebasestorage.app',
